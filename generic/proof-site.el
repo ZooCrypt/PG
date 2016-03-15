@@ -39,6 +39,7 @@
 
       (isar "Isabelle" "thy")
       (coq "Coq" "v" nil (".vo" ".glob"))
+      (autognp "AutoGnP" "zc")
       (phox "PhoX" "phx")
 
       ;; Obscure instances or conflict with other Emacs modes.
